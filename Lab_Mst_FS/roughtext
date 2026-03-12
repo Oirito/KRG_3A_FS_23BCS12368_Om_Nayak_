@@ -1,0 +1,10 @@
+src
+ ├ context
+ │   └ AuthContext.js
+ ├ pages
+ │   ├ Login.js
+ │   └ Dashboard.js
+ ├ components
+ │   └ ProtectedRoute.js
+ ├ App.js
+ └ main.js
